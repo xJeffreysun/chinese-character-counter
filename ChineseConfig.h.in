@@ -1,3 +1,4 @@
 // the configured options and settings for Chinese
 #define Chinese_VERSION_MAJOR @Chinese_VERSION_MAJOR@
 #define Chinese_VERSION_MINOR @Chinese_VERSION_MINOR@
+#cmakedefine USE_MYMATH
